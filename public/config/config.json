@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xA5091153321783bE72574Ff0C61E174A661036e3",
+  "SCAN_LINK": "https://snowtrace.io/address/0xA5091153321783bE72574Ff0C61E174A661036e3",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Avalanche",
+    "SYMBOL": "Avax",
+    "ID": 43114
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "Ocean Nodes Booster",
+  "SYMBOL": "Booster NFT",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://nftrade.com/assets/avalanche/0xa5091153321783be72574ff0c61e174a661036e3",
   "SHOW_BACKGROUND": true
 }
